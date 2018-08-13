@@ -2,6 +2,9 @@
 
 function searchRepositories () {
 
+  const searchTerms = $('#searchTerms').val()
+
+
 
   
 }
